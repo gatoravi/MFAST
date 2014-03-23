@@ -1,0 +1,10 @@
+Avinash Ramu, University of Florida
+
+Look at pipeline.pl for the set of steps that are followed.
+
+The sequence of steps is as follows, 
+1. Find the seeds from the input set of trees for given k, n. This is done by the findPotSeeds.cpp file.
+
+2. Combine the frequent seeds using either min overlap or IO overlap approach. The code for the min overlap approach is in src/match.c The src folder is from the Newick Utilities project.
+
+3. Post process the combined seeds, this is done in the postprocess.pl script.
