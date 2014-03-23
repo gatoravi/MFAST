@@ -8,3 +8,5 @@ The sequence of steps is as follows,
 2. Combine the frequent seeds using either min overlap or IO overlap approach. The code for the min overlap approach is in src/match.c The src folder is from the Newick Utilities project.
 
 3. Post process the combined seeds, this is done in the postprocess.pl script.
+
+Note - This code needs some major cleanup, this was coded up as a proof of principle of the heuristic.
