@@ -1,4 +1,4 @@
-# MFAST: Maximal Frequent Agreement SubTrees
+# MFAST: Maximum Frequent Agreement SubTrees
 
 A heuristic for finding **evolutionary relationships that are shared by most
 trees in a large collection of phylogenetic trees**.
